@@ -1,6 +1,6 @@
 # Photo Album Application - Cloud Computing Capstone Project
 
-![Cloud Architecture Diagram](drawn_cloud_architecture.png)
+![Cloud Architecture Diagram](drawn_cloud_architecture.jpg)
 
 - **Figure 1**: Cloud Architecture Diagram
 
