@@ -39,4 +39,4 @@ This cloud architecture incorporates AWS services to fulfill the application’s
 - **AWS Ecosystem**: Entirely within AWS to maintain performance and cost-effectiveness.
 
 ## Conclusion
-This project provides a robust foundation for the Photo Album application, meeting both current needs and future growth potential. The modular, serverless design ensures that the architecture is highly scalable, secure, and efficient, capable of supporting new features as user demand increases.
+This project provides a robust foundation for the Photo Album application, meeting both current needs and future growth potential. The modular, serverless design ensures that the architecture is highly scalable, secure, and efficient, capable of supporting new features as users' demand increases.
